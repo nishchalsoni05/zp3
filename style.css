@@ -76,7 +76,7 @@ html, body {
 }
 
 /* --------------------------------------------------------------------------
-   Profile Section: Crest, Hotel Name, Managing Director Title, Quick Actions
+   Profile Section: Crest, Hotel Name, Director Title, Quick Actions
    -------------------------------------------------------------------------- */
 .profile-section {
   display: flex;
@@ -128,7 +128,7 @@ html, body {
   text-transform: uppercase;
 }
 
-/* Designation Subtitle — ZULFIKAR KHAN (Managing Director) */
+/* Designation Subtitle — RASHEED KHAN (Director) */
 .profile-subtitle {
   font-family: var(--font-sans);
   font-size: 13.5px;

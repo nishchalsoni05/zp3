@@ -4,14 +4,14 @@ A modern, responsive bio-link and contact page for **Hotel ZP Grand** customized
 
 ## Hotel Information
 - **Name**: Hotel ZP Grand
-- **Managing Director**: Zulfikar Khan
+- **Director**: Rasheed Khan
 - **Tagline**: Luxury • Comfort • Class
 
 ## Live Links
-1. **Call Us!**: Direct 1-tap phone call (`+91 9826232786`)
+1. **Call Us!**: Direct 1-tap phone call (`+91 7000872953`)
 2. **Mail Us**: Direct email composer (`md@zpgrandhotels.com`)
 3. **Locate Us**: Google Maps location pin
-4. **Send Message Directly**: Instant WhatsApp chat (`+91 9826232786`)
+4. **Send Message Directly**: Instant WhatsApp chat (`+91 7000872953`)
 5. **Check Our Instagram Profile**: Official Instagram page (`@hotel.zp.grand`)
 
 ## Tech Stack
